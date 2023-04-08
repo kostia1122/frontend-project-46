@@ -4,8 +4,8 @@
 
 ### CodeClimate
 
-<a href="https://codeclimate.com/github/kostia1122/frontend-project-46/maintainability"><img src="https://api.codeclimate.com/v1/badges/b16dec8849a0a90ef8a5/maintainability" /></a>
-<a href="https://codeclimate.com/github/kostia1122/frontend-project-46/test_coverage"><img src="https://api.codeclimate.com/v1/badges/b16dec8849a0a90ef8a5/test_coverage" /></a>
+<a href="https://codeclimate.com/github/kostia1122/frontend-project-46/maintainability"><img src="https://api.codeclimate.com/v1/badges/c51c59369c4d9a6e4284/maintainability" /></a>
+<a href="https://codeclimate.com/github/kostia1122/frontend-project-46/test_coverage"><img src="https://api.codeclimate.com/v1/badges/c51c59369c4d9a6e4284/test_coverage" /></a>
 
 ### Description
 
